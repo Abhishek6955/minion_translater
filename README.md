@@ -1,2 +1,3 @@
-# minion_translater
-It basically convert the English Text entered by the user into Minion language.
+# banana-speak
+This will convert englist text into Minion language.
+I have made it using HTML, CSS, vanilla JS
